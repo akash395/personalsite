@@ -1,0 +1,95 @@
+img {
+    border-radius:70%;
+    margin-top: 30px;
+    width: 10%;
+    height: 10%;
+}
+html{
+    background-image: linear-gradient(to top, #3555ed, #0071f6, #0088f8, #009cf6, #45aff0, #4fbbef, #60c6ee, #75d1ec, #6bd9ed, #65e1eb, #64e9e6, #6bf0de);
+    height: 100%;
+    text-align: center;
+}
+
+.navigational {
+    font-size: 20px;
+    margin-left:38%;
+}
+
+.work{
+    font-size: 23px;
+    margin-left: 44%;
+    text-align: justify;
+}
+
+.links{
+    margin-left: 50px;
+    color: black;
+    text-decoration: none;
+    font-weight: 900;
+}
+.here{
+    color: black;
+    text-decoration: none;
+    font-weight: 900;
+}
+
+a:hover{
+    color: rgb(10, 50, 228);
+}
+a:visited {
+    border-bottom: 1px solid #607ca8;
+    text-decoration: underline;
+}
+.list{
+    margin-left: 35%;
+    text-align: justify;
+}
+
+.list2{
+    margin-left: 46.5%;
+    text-align: justify;
+}
+
+.list3{
+    margin-left: 44%;
+    text-align: justify;
+}
+
+.list4{
+    margin-left: 35%;
+    text-align:start;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+    font-size: 40px; 
+    margin-top: 50px
+  }
+
+  .fa-github {
+    background: #040505;
+    color: white;
+    font-size: 40px; 
+    margin-top: 50px
+  }
+
+  .fa-facebook {
+    background: #007bb5;
+    color: white;
+    font-size: 40px; 
+    margin-top: 50px
+  }
+
+  .li1{
+    font-size: 25px;
+  }
